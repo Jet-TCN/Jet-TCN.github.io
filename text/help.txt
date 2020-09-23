@@ -7,8 +7,8 @@ Commands and usages:
 cls                 Clears screen
 echo <string>       Returns echoed string
 help                Displays help file
-dir				        	Directory listing
-play <song>		    	Plays a sound file
-pause 				      Pauses song
+dir                 Directory listing
+play <song>         Plays a sound file
+pause               Pauses song
 
 EOF End of File

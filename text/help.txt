@@ -1,5 +1,5 @@
 
-TelecomsNetworking Disk Operating System v1.0-a
+  TelecomsNetworking Disk Operating System v1.0-a
 Copyright (C) 2020, TelecomsNetworking, All rights reserved.
 Help file revision A-1
 Commands and usages:
@@ -7,8 +7,8 @@ Commands and usages:
 cls                 Clears screen
 echo <string>       Returns echoed string
 help                Displays help file
-dir					Directory listing
-play <song>			Plays a sound file
-pause 				Pauses song
+dir				        	Directory listing
+play <song>		    	Plays a sound file
+pause 				      Pauses song
 
 EOF End of File
